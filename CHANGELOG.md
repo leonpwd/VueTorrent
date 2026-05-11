@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.34.0](https://github.com/VueTorrent/VueTorrent/compare/v2.33.0...v2.34.0) (2026-05-11)
+
+
+### Features
+
+* **Sidebar:** Add DHT node and peer connection count ([#2774](https://github.com/VueTorrent/VueTorrent/issues/2774)) ([4a5c857](https://github.com/VueTorrent/VueTorrent/commit/4a5c85749ca40086d6ed68fb18f29997fde47a61))
+
 ## [2.33.0](https://github.com/VueTorrent/VueTorrent/compare/v2.32.1...v2.33.0) (2026-05-04)
 
 
